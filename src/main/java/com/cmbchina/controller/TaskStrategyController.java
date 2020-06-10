@@ -48,5 +48,13 @@ public class TaskStrategyController {
         System.out.println("第二次提交");
         System.out.println("第三次提交");
         System.out.println("第四次提交");
+        String name = "张三";
+        System.out.println("name : " + name);
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder
+                .append(name)
+                .append(name);
+        System.out.println(stringBuilder);
+
     }
 }
