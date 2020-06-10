@@ -1,0 +1,7 @@
+com\cmbchina\service\TaskStrategyService.class
+com\cmbchina\controller\TaskStrategyController.class
+com\cmbchina\dao\TaskMapper.class
+com\cmbchina\service\impl\TaskStrategyServiceImpl.class
+com\cmbchina\pojo\TaskStrategy.class
+com\cmbchina\dao\TaskStrategyMapper.class
+com\cmbchina\pojo\Task.class
