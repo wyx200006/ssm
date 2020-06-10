@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:21:08:21 +0800] "GET /toadd HTTP/1.1" 200 642 http-bio-8080-exec-1 191
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:21:08:21 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:21:08:39 +0800] "GET /add?name=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&type=%E5%BE%AE%E4%BF%A1 HTTP/1.1" 500 5604 http-bio-8080-exec-4 335
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:21:15:30 +0800] "GET /add?name=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&type=%E5%BE%AE%E4%BF%A1 HTTP/1.1" 500 5604 http-bio-8080-exec-2 371
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:22:09:42 +0800] "GET /list HTTP/1.1" 200 16 http-bio-8080-exec-1 388
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:23:08:04 +0800] "GET /add?name=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&type=%E5%BE%AE%E4%BF%A1 HTTP/1.1" 500 5604 http-bio-8080-exec-4 94
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:23:08:05 +0800] "GET /add?name=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&type=%E5%BE%AE%E4%BF%A1 HTTP/1.1" 500 5604 http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:23:08:20 +0800] "GET /add?name=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&type=%E5%BE%AE%E4%BF%A1 HTTP/1.1" 500 5604 http-bio-8080-exec-1 416
